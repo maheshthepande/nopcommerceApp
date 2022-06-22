@@ -1,0 +1,5 @@
+2022-06-20 15:50:05,023 :INFO :utilities.customLogger :**********Test_001_Login**********
+2022-06-20 15:50:05,024 :INFO :utilities.customLogger :**********Verify Home Page Title**********
+2022-06-20 15:50:07,661 :INFO :utilities.customLogger :**********Home Page Title test is Passed**********
+2022-06-20 15:50:08,659 :INFO :utilities.customLogger :**********Login test is Started**********
+2022-06-20 15:50:28,635 :INFO :utilities.customLogger :**********Login test is Passed**********
